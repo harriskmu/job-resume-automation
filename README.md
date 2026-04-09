@@ -25,3 +25,37 @@ pip install -r requirements.txt
 ```
 
 3. Add your OpenAI API key to a `.env` file
+OPENAI_API_KEY=your_key_here
+
+4. Run it
+
+```bash
+python main.py
+```
+
+---
+
+## File structure
+job-resume-automation/
+├── main.py
+├── matcher.py
+├── generator.py
+├── sample_resume.txt
+├── sample_jd.txt
+├── requirements.txt
+└── .env.example
+
+---
+
+## Notes
+
+- Works best with plain text resumes and job descriptions
+- Designed for internal HR workflows but works for personal use too
+- GPT-4o recommended for best results, but gpt-3.5-turbo works fine
+
+---
+
+## Requirements
+
+- Python 3.9+
+- OpenAI API key
