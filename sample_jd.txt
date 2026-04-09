@@ -1,0 +1,16 @@
+Role: Data Analyst — Automation & AI Tools
+
+We are looking for a data analyst who can bridge the gap between raw data
+and actionable workflows. The ideal candidate has hands-on experience with
+Python and SQL, and is comfortable working with AI APIs to build lightweight
+internal tools.
+
+Responsibilities:
+- Analyze datasets and surface insights for internal teams
+- Build and maintain automation scripts
+- Collaborate with operations to identify manual processes that can be automated
+
+Requirements:
+- Python and SQL proficiency
+- Experience with REST APIs
+- Comfortable working independently on small to mid-sized projects
