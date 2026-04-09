@@ -1,0 +1,17 @@
+Harris K.
+harriz@email.com
+
+Experience
+----------
+Data & Automation Analyst — Internal Tools (2021–Present)
+- Built internal reporting pipelines using Python and SQL
+- Automated manual workflows saving roughly 6 hours per week
+- Worked with cross-functional teams to scope and deliver tooling projects
+
+Skills
+------
+Python, SQL, R, OpenAI API, GitHub, data analysis, workflow automation
+
+Education
+---------
+B.S. Business Information Systems
